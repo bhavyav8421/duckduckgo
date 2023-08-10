@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/drawable-v21_launch_background.xml.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/drawable_launch_background.xml.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.sample.duckduckgo.app-merged_res-13:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sample.duckduckgo.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    }
+]

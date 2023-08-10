@@ -1,0 +1,4 @@
+#Thu Aug 10 02:49:07 PDT 2023
+base.0=/Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/intermediates/dex/simpsonsviewerDebug/mergeDexSimpsonsviewerDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

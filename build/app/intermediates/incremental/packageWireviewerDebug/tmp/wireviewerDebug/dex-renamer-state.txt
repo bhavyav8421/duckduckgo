@@ -1,0 +1,4 @@
+#Thu Aug 10 02:43:12 PDT 2023
+base.0=/Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/intermediates/dex/wireviewerDebug/mergeDexWireviewerDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

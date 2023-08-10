@@ -1,0 +1,14 @@
+com.sample.duckduckgo.app-jetified-window-java-1.0.0-beta04-0 /Users/bav100/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.sample.duckduckgo.app-core-1.6.0-1 /Users/bav100/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.sample.duckduckgo.app-jetified-annotation-experimental-1.1.0-2 /Users/bav100/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.sample.duckduckgo.app-jetified-window-1.0.0-beta04-3 /Users/bav100/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.sample.duckduckgo.app-debug-4 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/android/app/src/debug/res
+com.sample.duckduckgo.app-main-5 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/android/app/src/main/res
+com.sample.duckduckgo.app-simpsonsviewer-6 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/android/app/src/simpsonsviewer/res
+com.sample.duckduckgo.app-simpsonsviewerDebug-7 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/android/app/src/simpsonsviewerDebug/res
+com.sample.duckduckgo.app-simpsonsviewer-8 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/generated/res/pngs/simpsonsviewer/debug
+com.sample.duckduckgo.app-simpsonsviewer-9 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/generated/res/resValues/simpsonsviewer/debug
+com.sample.duckduckgo.app-simpsonsviewer-10 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/generated/res/rs/simpsonsviewer/debug
+com.sample.duckduckgo.app-mergeSimpsonsviewerDebugResources-11 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/intermediates/incremental/simpsonsviewerDebug/mergeSimpsonsviewerDebugResources/merged.dir
+com.sample.duckduckgo.app-mergeSimpsonsviewerDebugResources-12 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/intermediates/incremental/simpsonsviewerDebug/mergeSimpsonsviewerDebugResources/stripped.dir
+com.sample.duckduckgo.app-merged_res-13 /Users/bav100/codebase/AndroidLearning/demo/duckduckgo/build/app/intermediates/merged_res/simpsonsviewerDebug
