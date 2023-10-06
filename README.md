@@ -1,6 +1,6 @@
 # duckduckgo
 
-A new Flutter project.
+A new Flutter project, create using bloc state management library. The app pulls the data from remote api and shows in a list. The list is searchable. The unit test are written using bloc_test.
 
 ## Getting Started
 
@@ -20,3 +20,9 @@ Execute the following commands to run the two flavors of the application.
 flutter run --flavor simpsonsviewer -t lib/flavor/main_simpsonsviewer.dart
 
 flutter run --flavor wireviewer -t lib/flavor/main_wireviewer.dart
+
+The following are the screenshots
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-10-06 at 12 44 43](https://github.com/bhavyav8421/duckduckgo/assets/14247923/c7ca78d3-8582-45c7-9c27-99dccf149c23)
+
+![Simulator Screen Shot - iPhone 14 Pro - 2023-10-06 at 12 45 30](https://github.com/bhavyav8421/duckduckgo/assets/14247923/f31af8b4-ebcc-4721-b43e-cdd3a7397457)
